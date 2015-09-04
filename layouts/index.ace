@@ -1,0 +1,6 @@
+= content main
+  {{ range .Data.Pages }}
+    {{ if isset .Params "homepage" }}
+      {{ .Content }}
+    {{ end }}
+  {{ end }}

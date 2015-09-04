@@ -1,0 +1,142 @@
+body
+{
+  font-family: "Avenir";
+  padding-top: 1em;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  font-weight: 600;
+}
+
+dt
+{
+  margin-top: .5em;
+}
+
+dd
+{
+  margin-left: 1em;
+}
+
+iframe
+{
+  border: none;
+}
+
+.centered
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fullwidth
+{
+  width: 100%;
+}
+
+.navbar-toggle
+{
+  background: #eee;
+  border: 1px solid #ddd;
+  float: none;
+}
+
+.navbar-toggle .icon-bar
+{
+  background-color: #333;
+}
+
+.jumbotron
+{
+  /*
+   * Permission granted by Shaun Killen to use this image for SAC 2016
+   * on 4 Sep 2015 [private correspondance]. No other uses have been authorized.
+   */
+  background-image: url("http://www.shaunkillenphotography.com/wp-content/uploads/2012/11/st-johns-pano-large-2000-srgb.jpg");
+
+  background-position: 0% 25%;
+  background-size: 110%;
+
+  box-shadow: inset 0 0 0 1000px rgba(43, 81, 127, 0.3);
+  text-shadow: 4px 4px 10px black;
+}
+
+.jumbotron h1, .jumbotron p
+{
+  color: white;
+}
+
+.jumbotron h1
+{
+  font-weight: 700;
+}
+
+
+.dates td:not(:first-child)
+{
+  padding-left: 1em;
+}
+
+.dates td:first-child
+{
+  font-weight: bold;
+}
+
+.news
+{
+  background: #eee;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: .5em;
+}
+
+.news .summary
+{
+  font-size: small;
+  margin: .5em;
+}
+
+#sidebar
+{
+  padding-left: 0;
+}
+
+#sidebar .list-group-item
+{
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+.row
+{
+  margin-bottom: 1em;
+}
+
+#top
+{
+  margin-bottom: 0;
+}
+
+h1:first-child
+{
+  margin-top: 0;
+}
+
+.row :first-child
+{
+  margin-top: 0;
+}
+
+.row-offcanvas-left.active
+{
+  left: 60%;
+}
+
+@media screen and (min-width: 768px)
+{
+  .jumbotron
+  {
+    padding-bottom: .25em;
+  }
+}

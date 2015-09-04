@@ -1,0 +1,10 @@
+#!/bin/sh
+
+: ${output_dir:=".generated"}
+: ${destination:="tera:~/.www/sac2016-preview"}
+
+rm -rf ${output_dir}
+hugo --destination=${output_dir} || exit 1
+rm -f ${output_dir}/.DS_Store
+
+rsync -e ssh -avz --delete-after ${output_dir}/ ${destination}/

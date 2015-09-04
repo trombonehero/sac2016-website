@@ -1,0 +1,17 @@
+baseurl: "https://www.engr.mun.ca/~anderson/sac2016-preview/"
+languageCode: en-us
+title: Selected Areas in Cryptography
+theme: bootstrap
+
+params:
+  author: SAC 2016
+
+menu:
+  main:
+    - Name: Welcome
+      URL: /
+      Weight: -120
+    - Name: Organization
+      Weight: -110
+    - Name: Local arrangements
+      Weight: -100

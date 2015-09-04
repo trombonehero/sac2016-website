@@ -1,0 +1,11 @@
+.news id="news-{{ .Date.Format "2006-Jan-02" }}"
+  .title
+    a href="{{ .Permalink}}" {{ .Title }}
+    .date {{ .Date.Format "2 Jan 2006" }}
+
+    p.summary {{ .Summary }}
+
+    {{ if .Truncated }}
+      .readmore
+        a href="{{ .Permalink }}" read more...
+    {{ end }}
