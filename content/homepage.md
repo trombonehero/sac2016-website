@@ -9,9 +9,9 @@ on 10–12 August 2016.
 
 Conference co-chairs:
 
+* Roberto Avanzi, Qualcomm
 * [Howard Heys](https://www.mun.ca/engineering/about/people/howardheys.php),
   Memorial University of Newfoundland
-* Someone Else, Somewhere Else
 
 
 ## Topics
