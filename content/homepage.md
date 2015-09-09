@@ -29,9 +29,9 @@ The fourth area for SAC 2016 is **side channel attacks**.
 ## Important Dates
 
 <table class="dates">
-  <tr><td>Paper submission deadline</td><td>TBD</td></tr>
-  <tr><td>Notification of decision</td><td>TBD</td></tr>
-  <tr><td>Camera-ready deadline</td><td>TBD</td></tr>
+  <tr><td>Paper submission deadline</td><td>TBA</td></tr>
+  <tr><td>Notification of decision</td><td>TBA</td></tr>
+  <tr><td>Camera-ready deadline</td><td>TBA</td></tr>
   <tr><td>Conference</td><td>10–12 Aug 2015</td></tr>
 </table>
 
