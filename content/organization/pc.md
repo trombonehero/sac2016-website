@@ -3,6 +3,7 @@ title: Program committee
 menu:
   main:
     parent: Organization
+draft: true
 
 ---
 
