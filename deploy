@@ -1,7 +1,7 @@
 #!/bin/sh
 
 : ${output_dir:=".generated"}
-: ${destination:="tera:~/.www/sac2016-preview"}
+: ${destination:="sac2016@tera.engr.mun.ca:~/.www"}
 
 rm -rf ${output_dir}
 hugo --destination=${output_dir} || exit 1
