@@ -25,7 +25,7 @@ in is 3 pm and check out is noon.
 
 
 
-## Sheraton
+## Sheraton Hotel
 
 The Sheraton Hotel Newfoundland overlooks St John's harbour and is a short walk
 to downtown attractions.
@@ -63,7 +63,7 @@ To reserve a room, call +1 (709) 754-7788.
 </a>
 
 
-## Residence
+## Memorial University Residence
 
 Rooms have also been reserved at
 [Macpherson College](http://www.mun.ca/hfcs/housingservices/on_campus/new_res/),
