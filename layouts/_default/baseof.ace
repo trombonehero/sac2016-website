@@ -27,7 +27,8 @@ html lang="en"
           p
             ||
               Selected Areas in Cryptography
-              Memorial University of Newfoundland
+              Conference and Summer School
+              St. John's, Newfoundland, Canada
 
       // Left-side navigation bar
       .row.row-offcanvas.row-offcanvas-left
@@ -62,11 +63,11 @@ html lang="en"
 
         {{ if (not $wide) }}
         .col-xs-12.col-sm-3
-          .row.centered
-            a href="https://www.iacr.org"
-              / img src="https://www.iacr.org/forms/logo/iacrlogo.png" alt="IACR logo" width="120" height="120"
-              / p In association with the IACR
-              p [in association with...]
+          .row
+            center
+              a href="https://www.iacr.org"
+                img src="https://www.iacr.org/forms/logo/iacrlogo.png" alt="IACR logo" width="120" height="120"
+                p In association with the IACR
 
           #news.row
             h2 News

@@ -16,7 +16,7 @@ We are served domestically by
 Internationally,
 [Air Canada](https://www.aircanada.com) has a direct flight from London Heathrow
 (with various Star Alliance codeshares),
-[WestJet](https://www.westjet.com) flies from Dublin,
+[WestJet](https://www.westjet.com) flies from Dublin and London Gatwick,
 [United](https://www.united.com) flies from Newark and
 [American Airlines](https://www.aa.com) has WestJet codeshares from several
 Canadian cities.
@@ -26,5 +26,5 @@ North Sydney, NS and take a
 [Marine Atlantic](http://www.marine-atlantic.ca/) ferry to Newfoundland.
 The Port aux Basques ferry takes 5h to get to the Western tip of Newfoundland,
 which is approximately a 12h drive from St. John's.
-The Argentia ferry takes 14h to bring you to the Avalon Peninsula, a 5h drive
+The Argentia ferry takes 14h to bring you to the Avalon Peninsula, a 2h drive
 from St. John's.

@@ -10,8 +10,7 @@ St. John's is a vibrant, friendly city with plenty to do in the summer.
 It is North America's oldest city, having been established as a seasonal fishing
 port in the 1500s, and has a somewhat quirky character of colourful (literally)
 houses, historical landmarks, and stunning scenery.
-We recommend taking a couple of extra days to visit --- it can also be prudent
-to use have a day or two of weather buffer on each end of your visit!
+We recommend taking a couple of extra days to visit.
 
 For more ideas of things to do, you might like to visit
 [Destination St. John's](http://destinationstjohns.com/)
@@ -85,9 +84,8 @@ Gulf Stream mix with the arctic waters of the Labrador Current and the result is
 a climate like no other in Canada. Absolutely everything in Newfoundland - the
 history, the economy, the culture, and even the humour (good humour, that is) of
 the people - is influenced by the weather. Renowned for its rain (the most in
-Canada), fog (the most in Canada), wind (the most in Canada), and snow (20 ft
-last year in St. John's! - and, yes, the most in Canada), Newfoundland breeds
-heartiness into its inhabitants.
+Canada), fog (the most in Canada), wind (the most in Canada), and snow (up to
+20 ft in one year), Newfoundland breeds heartiness into its inhabitants.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/newfoundlandlabradortourism/6709701131/in/album-72157625080679407/" title="Cape Race Coastline"><img src="https://farm8.staticflickr.com/7014/6709701131_7d52d8ba43_b.jpg" width="535" alt="Cape Race Coastline"></a>
 

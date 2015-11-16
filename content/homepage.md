@@ -3,7 +3,7 @@ homepage: true
 
 ---
 
-The 23rd Selected Areas in Cryptography (SAC 2016) will be held at
+The 23rd Conference on Selected Areas in Cryptography (SAC 2016) will be held at
 Memorial University of Newfoundland, St. John's, NL, Canada,
 on 10–12 August 2016.
 
@@ -23,7 +23,20 @@ There are four areas covered at each SAC conference. Three of the areas are perm
 1. efficient implementations of symmetric and public key algorithms and
 1. mathematical and algorithmic aspects of applied cryptology.
 
-The fourth area for SAC 2016 is **side channel attacks**.
+The special selected topic for SAC 2016 is:
+
+<ol start="4">
+<li>Side channel, fault and related attacks on symmetric and asymmetric
+    cryptographic primitives and their countermeasures.</li>
+</ol>
+
+
+### SAC Summer School (S3)
+
+Once again this year, the conference will have associated with it, a 2 day
+summer school preceding the main conference. Detailed subjects will be selected
+from the four conference topics and leading researchers will be invited as
+speakers for the school. More details will follow in the upcoming weeks.
 
 
 ## Important Dates
@@ -32,6 +45,7 @@ The fourth area for SAC 2016 is **side channel attacks**.
   <tr><td>Paper submission deadline</td><td>TBA</td></tr>
   <tr><td>Notification of decision</td><td>TBA</td></tr>
   <tr><td>Camera-ready deadline</td><td>TBA</td></tr>
+  <tr><td>SAC Summer School</td><td>8–9 Aug 2015</td></tr>
   <tr><td>Conference</td><td>10–12 Aug 2015</td></tr>
 </table>
 
@@ -51,6 +65,13 @@ Lecture Notes in Computer Science series.
 
 
 ## Sponsors and partners
+
+Financial support for SAC 2016 has been graciously provided by:
+
+* [Department of Electrical and Computer Engineering](http://www.mun.ca/engineering/ece),
+  Memorial University
+* [Faculty of Engineering and Applied Science](http://www.mun.ca/engineering),
+  Memorial University
 
 Permission to use the banner image at the top of this page has been graciously
 provided by [Shaun Killen Photography](http://www.shaunkillenphotography.com).
