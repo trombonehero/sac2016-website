@@ -6,24 +6,41 @@ menu:
 
 ---
 
-Rooms have been reserved at two downtown hotels and
-one on-campus residence complex.
-**More information to come**.
+Memorial University is the host and site of SAC 2016. Our campus is located in
+the center of St. John’s and is a short taxi drive, approximately 10 minutes
+from the airport. We are located adjacent to walking trails, golf courses and
+other amenities so we are the perfect location for your stay during the
+conference.
 
-## Marriott
+We have arranged a limited number of rooms at various hotels and price points
+for your stay in St. John’s. You are responsible to book your accommodations and
+make payment for your room and incidentals. As limited hotel rooms are available
+in St. John’s we highly recommend you book accommodations as early as possible,
+to avoid disappointment and ensure a space is reserved in your name.
 
-The
-[Courtyard Marriott](http://www.marriott.com/hotels/travel/yytcy-courtyard-st-johns-newfoundland/)
-is located on Duckworth Strett downtown.
-SAC rooms cost $209/night (plus tax).
+To reserve a room at the conference rate please contact either of the following
+properties and indicate you are attending  SAC 2016.  All prices are in Canadian
+dollars and are subject to 13% HST and 4% TML unless noted taxes included; check
+in is 3 pm and check out is noon.
 
-<a href="http://www.gonewiththefamily.com/.a/6a014e5f914cd8970c017d3c37779f970c-500wi">
-  <img src="http://www.gonewiththefamily.com/.a/6a014e5f914cd8970c017d3c37779f970c-500wi"
-    alt="The Courtyard Marriott" width="200"/>
+
+
+## Sheraton
+
+The Sheraton Hotel Newfoundland overlooks St John's harbour and is a short walk
+to downtown attractions.
+Traditional Queen rooms cost $204 plus taxes/night, based on double occupancy.
+Rooms are available until July 11, 2016 or until filled.
+To reserve a room, call +1 (888) 870-3033 or email
+[reservations@sheratonhotelnewfoundland.com](mailto:reservations@sheratonhotelnewfoundland.com).
+
+<a href="http://r-ec.bstatic.com/images/hotel/max400/148/1480604.jpg">
+<img src="http://r-ec.bstatic.com/images/hotel/max400/148/1480604.jpg"
+ alt="Sheraton Hotel Newfoundland" width="200"/>
 </a>
-<a href="http://www.tnetnoc.com/hotelphotos/613/174613/2631759-Courtyard-by-Marriott-St-Johns-Newfoundland-Meeting-Room-2-DEF.jpg">
-  <img src="http://www.tnetnoc.com/hotelphotos/613/174613/2631759-Courtyard-by-Marriott-St-Johns-Newfoundland-Meeting-Room-2-DEF.jpg"
-    alt="Restaurant in the Courtyard Marriott" width="200"/>
+<a href="http://destinationstjohns.com/wp-content/uploads/2012/01/Sheraton.jpg">
+<img src="http://destinationstjohns.com/wp-content/uploads/2012/01/Sheraton.jpg"
+ alt="Sheraton Hotel Newfoundland" width="200"/>
 </a>
 
 
@@ -32,7 +49,9 @@ SAC rooms cost $209/night (plus tax).
 The
 [Quality Inn](http://www.stjohnsqualityhotel.com/) is also located downtown,
 with the quintessential St. John's address "2 Hill O'Chips".
-SAC-booked rooms cost $159/night (plus tax).
+The cost is $159 plus taxes/night based on double occupancy.
+Rooms available until July 10th, 2016 or until filled.
+To reserve a room, call +1 (709) 754-7788.
 
 <a href="https://www.choicehotels.com/media/eBrochure/ebrochure/CN/CN246/CN246A1.JPG">
   <img src="https://www.choicehotels.com/media/eBrochure/ebrochure/CN/CN246/CN246A1.JPG"
@@ -49,7 +68,13 @@ SAC-booked rooms cost $159/night (plus tax).
 Rooms have also been reserved at
 [Macpherson College](http://www.mun.ca/hfcs/housingservices/on_campus/new_res/),
 Memorial's new on-campus residence complex.
-All rooms include semi-private washrooms and a view towards the Downtown.
+These are single rooms with semi-private washrooms
+and cost $60.00 per night (taxes included).
+Rooms available until July 10, 2016 or until filled.
+To reserve a room,
+go to [www.mun.ca/reservations](http://www.mun.ca/reservations),
+click on Conference and Group Reservations and “Book Now!”, then
+enter promotion code SAC2016.
 
 <a href="http://www.mun.ca/hfcs/housingservices/on_campus/new_res/">
   <img src="http://www.mun.ca/hfcs/images/content/newresnight2.png" width="200"
