@@ -83,6 +83,16 @@ iframe
   font-weight: bold;
 }
 
+.left
+{
+  float: left;
+}
+
+.right
+{
+  float: right;
+}
+
 .news
 {
   background: #eee;
