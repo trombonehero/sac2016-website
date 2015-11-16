@@ -17,6 +17,9 @@ The SAC website has a
 [complete list of conferences](http://sacconference.org/SAC-history.html),
 but recent editions include:
 
+SAC 2015 — [Mount Allison University (Sackville, NB)]((http://mta.ca/sac2015)
+: (LNCS proceedings to come)
+
 SAC 2014 — [Concordia University (Montréal)]((http://users.encs.concordia.ca/~youssef/SAC2014-WebSite)
 : [LNCS vol. 8781](http://www.springer.com/computer/security+and+cryptology/book/978-3-319-13050-7)
 
