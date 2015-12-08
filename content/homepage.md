@@ -43,8 +43,9 @@ speakers for the school. More details will follow in the upcoming weeks.
 
 |                                |                |
 |--------------------------------|----------------|
-| Paper submission deadline      |            TBA |
-| Notification of decision       |            TBA |
+| Paper submission deadline      |    13 May 2015 |
+| Modifications allowed until    |    17 May 2015 |
+| Notification of decision       |    24 Jun 2015 |
 | Camera-ready deadline          |            TBA |
 | SAC Summer School              |   8–9 Aug 2015 |
 | Conference                     | 10–12 Aug 2015 |
