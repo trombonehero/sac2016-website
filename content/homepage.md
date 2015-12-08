@@ -41,13 +41,13 @@ speakers for the school. More details will follow in the upcoming weeks.
 
 ## Important Dates
 
-<table class="dates">
-  <tr><td>Paper submission deadline</td><td>TBA</td></tr>
-  <tr><td>Notification of decision</td><td>TBA</td></tr>
-  <tr><td>Camera-ready deadline</td><td>TBA</td></tr>
-  <tr><td>SAC Summer School</td><td>8–9 Aug 2015</td></tr>
-  <tr><td>Conference</td><td>10–12 Aug 2015</td></tr>
-</table>
+|                                |                |
+|--------------------------------|----------------|
+| Paper submission deadline      |            TBA |
+| Notification of decision       |            TBA |
+| Camera-ready deadline          |            TBA |
+| SAC Summer School              |   8–9 Aug 2015 |
+| Conference                     | 10–12 Aug 2015 |
 
 
 ## Conference Overview

@@ -73,12 +73,12 @@ iframe
 }
 
 
-.dates td:not(:first-child)
+td:not(:first-child)
 {
   padding-left: 1em;
 }
 
-.dates td:first-child
+td:first-child
 {
   font-weight: bold;
 }
