@@ -44,10 +44,10 @@ To reserve a room, call +1 (888) 870-3033 or email
 </a>
 
 
-## Quality Inn
+## Quality Hotel
 
 The
-[Quality Inn](http://www.stjohnsqualityhotel.com/) is also located downtown,
+[Quality Hotel](http://www.stjohnsqualityhotel.com/) is also located downtown,
 with the quintessential St. John's address "2 Hill O'Chips".
 The cost is $159 plus taxes/night based on double occupancy.
 Rooms available until July 10th, 2016 or until filled.
@@ -55,11 +55,11 @@ To reserve a room, call +1 (709) 754-7788.
 
 <a href="https://www.choicehotels.com/media/eBrochure/ebrochure/CN/CN246/CN246A1.JPG">
   <img src="https://www.choicehotels.com/media/eBrochure/ebrochure/CN/CN246/CN246A1.JPG"
-    alt="The Quality Inn on Hill O'Chips" width="200"/>
+    alt="The Quality Hotel on Hill O'Chips" width="200"/>
 </a>
 <a href="http://i0.bookcdn.com/data/Photos/OriginalPhoto/51/5110/5110532/Courtyard-St-JohnS-Newfoundland-photos-Restaurant.JPEG">
   <img src="http://i0.bookcdn.com/data/Photos/OriginalPhoto/51/5110/5110532/Courtyard-St-JohnS-Newfoundland-photos-Restaurant.JPEG"
-    alt="Rumpelstiltskin's restaurant in the Quality Inn" width="200"/>
+    alt="Rumpelstiltskin's restaurant in the Quality Hotel" width="200"/>
 </a>
 
 
