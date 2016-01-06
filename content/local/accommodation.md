@@ -71,16 +71,24 @@ Memorial's new on-campus residence complex.
 These are single rooms with semi-private washrooms
 and cost $60.00 per night (taxes included).
 Rooms available until July 10, 2016 or until filled.
-To reserve a room,
-go to [www.mun.ca/reservations](http://www.mun.ca/reservations),
-click on Conference and Group Reservations and “Book Now!”, then
-enter promotion code SAC2016.
+To reserve a room:
+
+* go to [www.mun.ca/conferences/bookings/sac2016.php](https://www.mun.ca/conferences/bookings/sac2016.php),
+* enter promotion code SAC2016,
+* choose dates and the number of guests,
+* click Next to enter personal and payment details.
+
+NOTE: The promotion code only works for the nights of August 7 - 14, 2016
+(departing August 15, 2016).
+To view the Cancellation terms please visit
+http://www.universityrooms.com/terms.
+Any questions, email stay@mun.ca or call toll-free +1 (877) 730-7657.
 
 <a href="http://www.mun.ca/hfcs/housingservices/on_campus/new_res/">
   <img src="http://www.mun.ca/hfcs/images/content/newresnight2.png" width="200"
     alt="Macpherson College at night"/>
 </a>
-<a href="http://www.mun.ca/hfcs/housingservices/on_campus/new_res/room_photos/">
-  <img src="http://www.mun.ca/hfcs/images/content/1.jpg" width="200"
+<a href="http://www.mun.ca/conferences/bookings/sac2016.php">
+  <img src="http://www.mun.ca/conferences/images/content/Guest_Accommodations/Macpherson_College_Bedroom.jpg" width="200"
     alt="A room in Macpherson College"/>
 </a>
