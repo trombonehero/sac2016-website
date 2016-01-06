@@ -69,10 +69,37 @@ Lecture Notes in Computer Science series.
 
 Financial support for SAC 2016 has been graciously provided by:
 
-* [Department of Electrical and Computer Engineering](http://www.mun.ca/engineering/ece),
-  Memorial University
-* [Faculty of Engineering and Applied Science](http://www.mun.ca/engineering),
-  Memorial University
+<div class="row">
+
+{{% tile "sponsor" %}}
+<div class="logo">
+  <div class="dummy"></div>
+  <img src="https://www.mun.ca/engineering/images/content/9_rs.jpg"
+    alt="Engineering @ Memorial University"/>
+</div>
+
+<a href="https://www.mun.ca/engineering/ece">
+  Department of Electrical and Computer Engineering</a>,
+<br/>
+<a href="https://www.mun.ca/engineering">
+  Faculty of Engineering and Applied Science</a>,
+<br/>
+<a href="https://www.mun.ca/">
+  Memorial University</a>
+{{% /tile %}}
+
+{{% tile "sponsor" %}}
+<a href="https://aarms.math.ca/">
+  <div class="logo">
+    <div class="dummy"></div>
+    <img src="images/aarms.png" alt="AARMS logo"/>
+  </div>
+  <br/>
+  Atlantic Association for Research in the Mathematical Sciences
+</a>
+{{% /tile %}}
+
+</div>
 
 Permission to use the banner image at the top of this page has been graciously
 provided by [Shaun Killen Photography](http://www.shaunkillenphotography.com).
