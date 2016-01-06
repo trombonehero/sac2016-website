@@ -6,6 +6,9 @@ theme: bootstrap
 params:
   author: SAC 2016
 
+blackfriday:
+  plainIdAnchors: true
+
 menu:
   main:
     - Name: Welcome
