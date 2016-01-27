@@ -56,8 +56,8 @@ The Selected Areas in Cryptography (SAC) conference series was initiated in
 1994, when the first event was held at Queen's University in Kingston.
 The SAC conference has been held annually
 [since 1994 in various Canadian locations](http://sacconference.org/SAC-history.html),
-including Calgary, Kingston, Montreal, Ottawa, Sackville, St. Johns, Toronto,
-Waterloo and Windsor.
+including Burnaby, Calgary, Kingston, Montreal, Ottawa, Sackville, St. Johns,
+Toronto, Waterloo and Windsor.
 SAC 2016 is held in co-operation with the
 International Association for Cryptologic Research (IACR),
 which is the leading professional organization for cryptographic research.
