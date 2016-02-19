@@ -93,6 +93,11 @@ td:first-child
   float: right;
 }
 
+#news .news
+{
+  margin-bottom: 1em;
+}
+
 .news
 {
   background: #eee;
