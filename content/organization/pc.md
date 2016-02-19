@@ -6,8 +6,6 @@ menu:
 
 ---
 
-SAC 2016 Program Committee
-
 Carlisle Adams
 : University of Ottawa, Canada
 
