@@ -41,6 +41,7 @@ Billy Bob Brumley
 
 Joan Daemen
 : STMicroelectronics, Belgium
+  and Radboud University, Nijmegen, Netherlands
 
 Itai Dinur
 : Ecole Normale Superieure, Paris, France
