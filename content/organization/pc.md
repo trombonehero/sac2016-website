@@ -130,7 +130,7 @@ Michael Tunstall
 Vanessa Vitse
 : Institut Fourier, Université Grenoble Alpes, France
 
-Damian Vizar
+Damian Vizár
 : EPFL, Switzerland
 
 Bo-Yin Yang
