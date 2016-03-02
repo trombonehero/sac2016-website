@@ -16,8 +16,7 @@ We are served domestically by
 Internationally,
 [Air Canada](https://www.aircanada.com) has a direct flight from London Heathrow
 (with various Star Alliance codeshares),
-[WestJet](https://www.westjet.com) flies from Dublin and London Gatwick,
-[United](https://www.united.com) flies from Newark and
+[WestJet](https://www.westjet.com) flies from Dublin and London Gatwick and
 [American Airlines](https://www.aa.com) has WestJet codeshares from several
 Canadian cities.
 
