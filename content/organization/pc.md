@@ -97,6 +97,9 @@ Petr Lisonek
 Victor Lomné
 : ANSSI, France
 
+Nicky Mouha
+: KU Leuven, Belgium and Inria, France
+
 María Naya-Plasencia
 : Inria, France
 
