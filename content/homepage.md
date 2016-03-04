@@ -43,9 +43,9 @@ speakers for the school. More details will follow in the upcoming weeks.
 
 |                                |                    |
 |--------------------------------|--------------------|
-| Paper submission deadline      | ~~13~~ 18 May 2016 |
-| Modifications allowed until    | ~~17~~ 22 May 2016 |
-| Notification of decision       | ~~24~~ 28 Jun 2016 |
+| Paper submission deadline      |        18 May 2016 |
+| Modifications allowed until    |        22 May 2016 |
+| Notification of decision       |        28 Jun 2016 |
 | Pre-proceedings deadline       |        18 Jul 2016 |
 | SAC Summer School              |       8–9 Aug 2016 |
 | Conference                     |     10–12 Aug 2016 |
