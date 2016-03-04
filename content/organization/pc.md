@@ -68,7 +68,7 @@ Howard Heys
 : Memorial University, Canada
 
 Laurent Imbert
-: Université Montpellier 2, France, and University of Calgary, Canada
+: LIRMM, CNRS, Université de Montpellier, France
 
 Michael John Jacobson, Jr.
 : University of Calgary, Canada
