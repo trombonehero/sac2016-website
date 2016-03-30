@@ -1,2 +1,2 @@
-div class="col-xs-12 col-sm-6 {{ .Get 0 }}"
+div class="col-xs-12 col-sm-4 {{ .Get 0 }}"
   {{ .Inner }}
