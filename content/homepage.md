@@ -71,6 +71,16 @@ Financial support for SAC 2016 has been graciously provided by:
 
 <div class="row">
 
+{{% wide-tile "wide sponsor" %}}
+<div class="logo">
+  <div class="dummy"></div>
+  <a href="http://research.microsoft.com/en-us/">
+    <img src="images/microsoft-research.jpeg" alt="Microsoft Research"/>
+  </a>
+</div>
+
+{{% /wide-tile %}}
+
 {{% tile "sponsor" %}}
 <div class="logo">
   <div class="dummy"></div>

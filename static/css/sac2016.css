@@ -175,6 +175,12 @@ h1:first-child
   margin-bottom: 50%;
 }
 
+.wide.sponsor .logo .dummy
+{
+  padding-top: 15%;
+  margin-bottom: 15%;
+}
+
 .sponsor .logo img
 {
   position: absolute;
