@@ -18,7 +18,6 @@ Atlantic Canada.
 Cruise in comfort & safety aboard Gatherall's catamaran.
 The experienced, professional crew & naturalists will provide a live commentary
 during the cruise.
-For more info check out [www.gatheralls.com](http://www.gatheralls.com).
 
 If you wish to participate, we have reserved a number of seats for SAC 2016
 delegates for the 2:30 p.m. tour on Thursday, August 11.
