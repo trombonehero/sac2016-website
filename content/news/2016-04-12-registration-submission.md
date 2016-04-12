@@ -7,7 +7,7 @@ title: Submission, registration pages
 The
 [registration]({{% ref "organization/registration.md" %}})
 and
-[submission]({{% ref "organization/registration.md" %}})
+[submission]({{% ref "organization/submission.md" %}})
 pages have been posted.
 
 <!--more-->
@@ -19,5 +19,5 @@ summer school, and book place on the
 [puffin and whale watching tour]({{% ref "local/tour.md" %}}).
 
 * [Registration page]({{% ref "organization/registration.md" %}})
-* [Submission page]({{% ref "organization/registration.md" %}})
+* [Submission page]({{% ref "organization/submission.md" %}})
 * [Tour page]({{% ref "local/tour.md" %}})
