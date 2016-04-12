@@ -72,6 +72,10 @@ iframe
   font-weight: 700;
 }
 
+td, th
+{
+  padding: .25em;
+}
 
 td:not(:first-child)
 {
