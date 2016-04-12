@@ -1,6 +1,5 @@
 ---
 title: Registration
-draft: true
 menu:
   main:
     parent: Organization
@@ -20,11 +19,16 @@ and welcome reception.
 
 ### SAC 2016
 
+| Registration type   | Up to 18 Jul   | After 18 Jul    |
+|---------------------|-----------------|------------------|
+| Student             | $300            | $350             |
+| Non-student         | $500            | $550             |
+
 Conference fee includes access to talks, lunches, nutrition breaks,
 welcome reception, and conference banquet.
 
-Registering for the School and Conference are done using the same form:
-<BUTTON “S3/SAC REGISTRATION”>
+Registering for the School and Conference are done using the
+[same form](https://conf.stuaff.mun.ca/getdemo.ei?id=69&s=_7AW0WQJXN).
 
 
 ### Puffin and Whale Watching Excursion
