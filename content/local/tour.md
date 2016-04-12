@@ -12,11 +12,11 @@ August 11, 2:30 p.m.**
 
 The
 [Witless Bay Ecological Reserve](http://www.env.gov.nl.ca/env/parks/wer/r_wbe/)
-is the largest breeding colony of Atlantic
-Puffins in North America and one of the best sites for whale watching in
+is the largest breeding colony of Atlantic
+Puffins in North America and one of the best sites for whale watching in
 Atlantic Canada.
-Cruise in comfort & safety aboard Gatherall's catamaran.
-The experienced, professional crew & naturalists will provide a live commentary
+Cruise in comfort & safety aboard Gatherall's catamaran.
+The experienced, professional crew & naturalists will provide a live commentary
 during the cruise.
 For more info check out [www.gatheralls.com](http://www.gatheralls.com).
 
@@ -27,7 +27,7 @@ Tickets must be purchased separately from the conference registration and are
 available at a 20% discount until August 4th or until all seats are booked.
 As the location for departure is approximately a 40 minute drive from St.
 John's, you will require transportation which can be booked directly through
-Gatherall's when you purchase your tour ticket.  
+Gatherall's when you purchase your tour ticket.
 
 Please book [directly through Gatherall's](
   https://bookeo.com/gatheralls/?promotion=SAC2016):
@@ -35,6 +35,6 @@ Please book [directly through Gatherall's](
 * Under "Puffin and Whale Watch", click BOOK.
 * Select details under Participants.
 * Select August 11 under Date.
-* Select 2:30 tour under Experience. 
-* Select shuttle service and enter pick up location (if you require transportation). 
+* Select 2:30 tour under Experience.
+* Select shuttle service and enter pick up location (if you require transportation).
 * Click next at the bottom and continue to input details and make payment.
