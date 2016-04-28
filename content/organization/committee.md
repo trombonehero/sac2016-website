@@ -8,6 +8,7 @@ menu:
 
 ## Co-chairs
 
+* Roberto Avanzi, Qualcomm
 * [Howard Heys](https://www.mun.ca/engineering/about/people/howardheys.php),
   Memorial University of Newfoundland
 
