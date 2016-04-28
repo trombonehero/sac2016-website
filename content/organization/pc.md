@@ -22,7 +22,7 @@ Roberto Avanzi
 : Qualcomm, Germany
 
 Manuel Barbosa
-: HASLab-INESC TEC and Universidade do Minho, Braga, Portugal
+: HASLab-INESC TEC and DCC-FCUP
 
 Paulo S.L.M. Barreto
 : University of Washington Tacoma, USA and University of University of São Paulo, Brazil
