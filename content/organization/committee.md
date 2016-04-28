@@ -26,3 +26,6 @@ menu:
 
 Jiming Xu
 : Dept of Electrical and Computer Engineering
+
+Mary Garnier
+: Conference Services
