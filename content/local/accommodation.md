@@ -27,8 +27,8 @@ in is 3 pm and check out is noon.
 
 ## Sheraton Hotel
 
-The Sheraton Hotel Newfoundland overlooks St John's harbour and is a short walk
-to downtown attractions.
+The [Sheraton Hotel Newfoundland](http://www.sheraton.com/Newfoundland)
+overlooks St John's harbour and is a short walk to downtown attractions.
 Traditional Queen rooms cost $204 plus taxes/night, based on double occupancy.
 Rooms are available until July 11, 2016 or until filled.
 To reserve a room, call +1 (888) 870-3033 or email
