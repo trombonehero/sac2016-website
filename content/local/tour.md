@@ -36,4 +36,4 @@ Please book [directly through Gatherall's](
 * Select August 11 under Date.
 * Select 2:30 tour under Experience.
 * Select shuttle service and enter pick up location (if you require transportation).
-* Click next at the bottom and continue to input details and make payment.
+* Click "Next" at the bottom and continue to input details and make payment.
