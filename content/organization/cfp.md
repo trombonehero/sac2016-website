@@ -58,8 +58,8 @@ withdraw papers from the proceedings that are not presented at the conference.
 
 |                                |                    |
 |--------------------------------|--------------------|
-| Paper submission deadline      |        18 May 2016 (23:59 Newfoundland Daylight Time) |
-| Modifications allowed until    |        22 May 2016 (23:59 Newfoundland Daylight Time) |
+| Paper submission deadline      |      ~~18 May 2016~~ (closed) |
+| Modifications allowed until    |      ~~22 May 2016~~ (closed) |
 | Notification of decision       |        28 Jun 2016 |
 | Pre-proceedings deadline       |        18 Jul 2016 |
 | SAC Summer School              |       8–9 Aug 2016 |

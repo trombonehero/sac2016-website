@@ -1,8 +1,5 @@
 ---
 title: Paper submission
-menu:
-  main:
-    parent: Organization
 
 ---
 
