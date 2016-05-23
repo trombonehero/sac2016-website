@@ -19,7 +19,7 @@ There are four areas covered at each SAC conference. Three of the areas are perm
 
 1. design and analysis of symmetric key primitives and cryptosystems,
    including block and stream ciphers, hash function, MAC algorithms,
-   cryptographic permutations, and Authenticated Encryption Schemes,
+   cryptographic permutations, and authenticated encryption schemes,
 1. efficient implementations of symmetric and public key algorithms and
 1. mathematical and algorithmic aspects of applied cryptology.
 
