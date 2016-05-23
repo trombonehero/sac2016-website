@@ -8,8 +8,10 @@ menu:
 
 Do you need a visa?
 : Check with
-  [Citizenship and Immigration Canada](http://cic.gc.ca/english/visit/visas.asp)
-  --- citizens of many countries do not require a visa for a brief visit.
+  [Citizenship and Immigration Canada](http://cic.gc.ca/english/visit/visas.asp).
+  Citizens of many countries do not require a visa for a brief visit, but
+  **visitors from most countries now require an
+  [Electronic Travel Authorization]({{% relref "news/2016-05-23-eta.md" %}})**.
 
 How do I apply?
 : CIC has a
