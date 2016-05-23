@@ -34,8 +34,8 @@ Rooms are available until July 11, 2016 or until filled.
 To reserve a room, call +1 (888) 870-3033 or email
 [reservations@sheratonhotelnewfoundland.com](mailto:reservations@sheratonhotelnewfoundland.com).
 
-<a href="http://r-ec.bstatic.com/images/hotel/max400/148/1480604.jpg">
-<img src="http://r-ec.bstatic.com/images/hotel/max400/148/1480604.jpg"
+<a href="http://www.starwoodhotels.com/pub/media/3455/she3455ex.142935_xx.jpg">
+<img src="http://www.starwoodhotels.com/pub/media/3455/she3455ex.142935_xx.jpg"
  alt="Sheraton Hotel Newfoundland" width="200"/>
 </a>
 <a href="http://destinationstjohns.com/wp-content/uploads/2012/01/Sheraton.jpg">
@@ -57,9 +57,8 @@ To reserve a room, call +1 (709) 754-7788.
   <img src="https://www.choicehotels.com/media/eBrochure/ebrochure/CN/CN246/CN246A1.JPG"
     alt="The Quality Hotel on Hill O'Chips" width="200"/>
 </a>
-<a href="http://i0.bookcdn.com/data/Photos/OriginalPhoto/51/5110/5110532/Courtyard-St-JohnS-Newfoundland-photos-Restaurant.JPEG">
-  <img src="http://i0.bookcdn.com/data/Photos/OriginalPhoto/51/5110/5110532/Courtyard-St-JohnS-Newfoundland-photos-Restaurant.JPEG"
-    alt="Rumpelstiltskin's restaurant in the Quality Hotel" width="200"/>
+<a href="http://cdn1.buuteeq.com/upload/15288/_mg_5755.JPG.1140x481_default.JPG">
+  <img src="http://cdn1.buuteeq.com/upload/15288/_mg_5755.JPG.1140x481_default.JPG" alt="Guest room in the Quality Hotel" width="200"/>
 </a>
 
 
