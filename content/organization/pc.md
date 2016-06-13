@@ -70,6 +70,9 @@ Howard Heys
 Laurent Imbert
 : LIRMM, CNRS, Université de Montpellier, France
 
+Kimmo Järvinen
+: Aalto University, Finland
+
 Michael John Jacobson, Jr.
 : University of Calgary, Canada
 
