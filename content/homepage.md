@@ -34,9 +34,11 @@ The special selected topic for SAC 2016 is:
 ### SAC Summer School (S3)
 
 Once again this year, the conference will have associated with it, a 2 day
-summer school preceding the main conference. Detailed subjects will be selected
-from the four conference topics and leading researchers will be invited as
-speakers for the school. More details will follow in the upcoming weeks.
+summer school preceding the main conference.
+This year's theme for the school is "Secure and Efficient Implementation of
+Cryptographic Algorithms".
+Information on the talks and speakers can be found on the
+[S3 page]({{% relref "s3.md" %}}).
 
 
 ## Important Dates
