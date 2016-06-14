@@ -18,7 +18,7 @@ The SAC website has a
 but recent editions include:
 
 SAC 2015 — [Mount Allison University (Sackville, NB)]((http://mta.ca/sac2015)
-: (LNCS proceedings to come)
+: [LNCS vol. 9566](http://www.springer.com/cn/book/9783319313009)
 
 SAC 2014 — [Concordia University (Montréal)]((http://users.encs.concordia.ca/~youssef/SAC2014-WebSite)
 : [LNCS vol. 8781](http://www.springer.com/computer/security+and+cryptology/book/978-3-319-13050-7)

@@ -91,6 +91,9 @@ html lang="en"
 
           .row.centered
             .col-sm-4
+              a href="http://www.springer.com/cn/book/9783319313009" 2015
+
+            .col-sm-4
               a href="http://www.springer.com/us/book/9783319130507" 2014
 
             .col-sm-4
